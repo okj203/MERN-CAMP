@@ -1,8 +1,6 @@
 # CAMP
 A language learning platform that provides educational lessons and one on one video calls with real teachers.  
 
-[Live Site](https://camp-mern-project.herokuapp.com/) 
-
 ## Background and Overview
 CAMP is a language learning platform, which utilizes EdTech to support remote learning during the COVID-19 pandemic.
 CAMP takes a two-step approach to language learning: 
